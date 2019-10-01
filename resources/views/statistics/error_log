@@ -1,0 +1,17 @@
+[15-Feb-2019 16:18:44 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[15-Feb-2019 16:18:44 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/laccoil/public_html/lac2/resources/views/statistics/index.blade.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/resources/views/statistics/index.blade.php on line 86
+[04-May-2019 19:24:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/laccoil/public_html/lac2/resources/views/statistics/index.blade.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/resources/views/statistics/index.blade.php on line 86
+[15-May-2019 20:19:00 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/laccoil/public_html/lac2/resources/views/statistics/index.blade.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/resources/views/statistics/index.blade.php on line 86
+[22-May-2019 01:55:20 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/laccoil/public_html/lac2/resources/views/statistics/index.blade.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/resources/views/statistics/index.blade.php on line 86

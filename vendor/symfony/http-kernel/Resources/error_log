@@ -1,0 +1,3 @@
+[31-Jul-2019 16:22:10 Europe/London] PHP Notice:  Undefined variable: version in /home/laccoil/public_html/lac2/vendor/symfony/http-kernel/Resources/welcome.html.php on line 39
+[31-Jul-2019 16:22:10 Europe/London] PHP Notice:  Undefined variable: baseDir in /home/laccoil/public_html/lac2/vendor/symfony/http-kernel/Resources/welcome.html.php on line 47
+[31-Jul-2019 16:22:10 Europe/London] PHP Notice:  Undefined variable: docVersion in /home/laccoil/public_html/lac2/vendor/symfony/http-kernel/Resources/welcome.html.php on line 71

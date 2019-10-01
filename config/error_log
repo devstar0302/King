@@ -1,0 +1,625 @@
+[08-Feb-2019 00:21:35 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[08-Feb-2019 00:21:35 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[08-Feb-2019 01:07:30 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[08-Feb-2019 01:07:30 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/mail.php on line 19
+[08-Feb-2019 01:16:41 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[08-Feb-2019 01:44:14 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[08-Feb-2019 01:44:14 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/laccoil/public_html/lac2/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/view.php on line 17
+[08-Feb-2019 02:39:20 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[08-Feb-2019 02:39:20 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[08-Feb-2019 02:48:31 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[08-Feb-2019 02:48:31 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/cache.php on line 18
+[08-Feb-2019 04:01:59 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[08-Feb-2019 04:01:59 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/hashing.php on line 32
+[08-Feb-2019 04:11:10 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[08-Feb-2019 04:11:10 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[08-Feb-2019 04:29:32 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[08-Feb-2019 04:29:32 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/session.php on line 19
+[08-Feb-2019 06:01:23 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[08-Feb-2019 06:01:23 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/database.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/database.php on line 7
+[08-Feb-2019 06:10:33 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[08-Feb-2019 06:10:33 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/services.php on line 18
+[08-Feb-2019 07:42:24 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[10-Feb-2019 02:48:22 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[10-Feb-2019 02:48:22 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/filesystems.php on line 16
+[11-Feb-2019 13:33:15 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[11-Feb-2019 13:33:15 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/mail.php on line 19
+[11-Feb-2019 13:38:05 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[11-Feb-2019 13:41:32 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[11-Feb-2019 13:41:32 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/broadcasting.php on line 18
+[11-Feb-2019 13:45:06 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[11-Feb-2019 13:45:06 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[11-Feb-2019 13:51:16 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[11-Feb-2019 13:51:16 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/laccoil/public_html/lac2/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/view.php on line 17
+[11-Feb-2019 17:06:06 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[11-Feb-2019 17:06:06 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/filesystems.php on line 16
+[11-Feb-2019 17:17:20 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[11-Feb-2019 17:17:20 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/cache.php on line 18
+[11-Feb-2019 17:25:08 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[11-Feb-2019 17:25:08 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/hashing.php on line 32
+[12-Feb-2019 08:48:18 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[12-Feb-2019 08:48:18 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[12-Feb-2019 08:49:45 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[12-Feb-2019 08:49:45 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/database.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/database.php on line 7
+[12-Feb-2019 08:50:40 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[12-Feb-2019 08:50:40 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[12-Feb-2019 15:08:32 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[12-Feb-2019 15:08:32 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[12-Feb-2019 15:18:38 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[12-Feb-2019 15:18:38 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/database.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/database.php on line 7
+[12-Feb-2019 15:19:22 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[12-Feb-2019 15:19:22 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/services.php on line 18
+[14-Feb-2019 06:51:05 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[14-Feb-2019 06:51:05 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/session.php on line 19
+[14-Feb-2019 13:42:46 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[14-Feb-2019 13:42:46 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/broadcasting.php on line 18
+[16-Feb-2019 17:22:31 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[25-Feb-2019 09:41:03 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[25-Feb-2019 09:41:03 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/hashing.php on line 32
+[26-Feb-2019 14:04:11 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[26-Feb-2019 14:04:11 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[26-Feb-2019 14:04:26 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[26-Feb-2019 14:04:36 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[26-Feb-2019 14:04:36 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/laccoil/public_html/lac2/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/view.php on line 17
+[26-Feb-2019 14:04:37 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[26-Feb-2019 14:04:37 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/mail.php on line 19
+[26-Feb-2019 14:04:42 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[26-Feb-2019 14:04:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[26-Feb-2019 14:04:42 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[26-Feb-2019 14:04:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/services.php on line 18
+[26-Feb-2019 14:04:42 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[26-Feb-2019 14:04:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/session.php on line 19
+[26-Feb-2019 14:04:43 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[26-Feb-2019 14:04:43 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[26-Feb-2019 14:04:43 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[26-Feb-2019 14:04:44 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[26-Feb-2019 14:04:44 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/hashing.php on line 32
+[26-Feb-2019 14:04:44 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[26-Feb-2019 14:04:44 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/filesystems.php on line 16
+[26-Feb-2019 14:04:46 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[26-Feb-2019 14:04:46 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/database.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/database.php on line 7
+[26-Feb-2019 14:04:46 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[26-Feb-2019 14:04:46 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/cache.php on line 18
+[26-Feb-2019 14:04:46 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[26-Feb-2019 14:04:46 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/broadcasting.php on line 18
+[27-Feb-2019 21:40:32 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/laccoil/public_html/lac2/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/view.php on line 17
+[01-Mar-2019 00:37:44 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/laccoil/public_html/lac2/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/view.php on line 17
+[01-Mar-2019 19:30:48 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[02-Mar-2019 00:33:59 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/mail.php on line 19
+[02-Mar-2019 12:15:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/mail.php on line 19
+[02-Mar-2019 13:31:30 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/database.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/database.php on line 7
+[02-Mar-2019 18:34:36 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[02-Mar-2019 19:50:24 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[03-Mar-2019 00:53:32 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/filesystems.php on line 16
+[03-Mar-2019 02:09:19 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/cache.php on line 18
+[03-Mar-2019 10:59:48 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[03-Mar-2019 13:31:22 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/session.php on line 19
+[03-Mar-2019 18:34:30 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/services.php on line 18
+[05-Mar-2019 03:40:35 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/broadcasting.php on line 18
+[26-Mar-2019 19:59:47 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/broadcasting.php on line 18
+[26-Mar-2019 19:59:50 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/database.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/database.php on line 7
+[19-Apr-2019 21:11:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/mail.php on line 19
+[20-Apr-2019 00:08:36 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[20-Apr-2019 01:47:47 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/session.php on line 19
+[20-Apr-2019 03:41:31 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/database.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/database.php on line 7
+[20-Apr-2019 03:57:55 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/hashing.php on line 32
+[20-Apr-2019 04:13:29 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/cache.php on line 18
+[20-Apr-2019 07:40:29 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/broadcasting.php on line 18
+[20-Apr-2019 12:26:52 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[20-Apr-2019 12:55:12 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/services.php on line 18
+[20-Apr-2019 14:53:44 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[20-Apr-2019 17:53:11 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/laccoil/public_html/lac2/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/view.php on line 17
+[20-Apr-2019 19:31:18 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/filesystems.php on line 16
+[28-Apr-2019 11:53:10 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/cache.php on line 18
+[29-Apr-2019 16:54:58 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[29-Apr-2019 23:26:57 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[30-Apr-2019 01:23:20 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[30-Apr-2019 09:59:55 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/filesystems.php on line 16
+[30-Apr-2019 22:54:16 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/session.php on line 19
+[01-May-2019 02:15:44 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/mail.php on line 19
+[01-May-2019 10:07:04 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/services.php on line 18
+[02-May-2019 21:34:55 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/hashing.php on line 32
+[04-May-2019 20:26:11 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/cache.php on line 18
+[05-May-2019 08:35:43 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[05-May-2019 15:42:54 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[06-May-2019 07:50:23 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/mail.php on line 19
+[07-May-2019 00:30:58 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/filesystems.php on line 16
+[07-May-2019 00:42:12 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/session.php on line 19
+[09-May-2019 00:58:13 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/hashing.php on line 32
+[11-May-2019 21:17:17 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/database.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/database.php on line 7
+[13-May-2019 13:04:30 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/laccoil/public_html/lac2/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/view.php on line 17
+[13-May-2019 16:37:34 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/hashing.php on line 32
+[13-May-2019 19:19:02 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/database.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/database.php on line 7
+[14-May-2019 19:19:21 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/mail.php on line 19
+[15-May-2019 15:32:29 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/broadcasting.php on line 18
+[16-May-2019 08:56:18 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/services.php on line 18
+[16-May-2019 20:57:06 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[16-May-2019 23:46:40 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/laccoil/public_html/lac2/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/view.php on line 17
+[22-May-2019 21:19:59 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[26-May-2019 15:25:59 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/hashing.php on line 32
+[02-Jun-2019 05:43:11 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/broadcasting.php on line 18
+[02-Jun-2019 20:54:43 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/laccoil/public_html/lac2/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/view.php on line 17
+[03-Jun-2019 01:49:06 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/database.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/database.php on line 7
+[03-Jun-2019 14:46:36 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[03-Jun-2019 15:05:12 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/database.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/database.php on line 7
+[24-Jul-2019 16:19:04 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[24-Jul-2019 16:19:04 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[26-Jul-2019 16:20:55 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/session.php on line 19
+[26-Jul-2019 16:20:56 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/session.php on line 19
+[28-Jul-2019 16:23:41 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[28-Jul-2019 16:23:41 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[28-Jul-2019 16:23:45 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[28-Jul-2019 16:23:45 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[28-Jul-2019 16:23:46 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/session.php on line 19
+[28-Jul-2019 16:23:46 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/session.php on line 19
+[30-Jul-2019 16:24:05 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/broadcasting.php on line 18
+[30-Jul-2019 16:24:05 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/broadcasting.php on line 18
+[30-Jul-2019 16:24:07 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/cache.php on line 18
+[30-Jul-2019 16:24:08 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/cache.php on line 18
+[30-Jul-2019 16:24:11 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[30-Jul-2019 16:24:12 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[04-Aug-2019 16:20:50 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[04-Aug-2019 16:20:50 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[07-Aug-2019 16:26:27 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/broadcasting.php on line 18
+[07-Aug-2019 16:26:28 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/broadcasting.php on line 18
+[07-Aug-2019 16:26:29 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/session.php on line 19
+[07-Aug-2019 16:26:30 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/session.php on line 19
+[07-Aug-2019 16:26:30 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[07-Aug-2019 16:26:31 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[07-Aug-2019 16:26:33 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[07-Aug-2019 16:26:34 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[07-Aug-2019 20:00:57 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/app.php on line 16
+[09-Aug-2019 16:27:17 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/laccoil/public_html/lac2/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/view.php on line 17
+[09-Aug-2019 16:27:18 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/laccoil/public_html/lac2/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/view.php on line 17
+[09-Aug-2019 16:27:21 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/filesystems.php on line 16
+[09-Aug-2019 16:27:21 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/filesystems.php on line 16
+[09-Aug-2019 16:27:23 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[09-Aug-2019 16:27:24 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[09-Aug-2019 16:27:24 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[09-Aug-2019 16:27:25 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[12-Aug-2019 16:26:04 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[12-Aug-2019 16:26:05 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[12-Aug-2019 16:26:05 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[12-Aug-2019 16:26:06 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/queue.php on line 16
+[12-Aug-2019 16:26:10 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/laccoil/public_html/lac2/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/view.php on line 17
+[12-Aug-2019 16:26:10 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/laccoil/public_html/lac2/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/view.php on line 17
+[14-Aug-2019 16:24:35 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/filesystems.php on line 16
+[14-Aug-2019 16:24:35 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/filesystems.php on line 16
+[14-Aug-2019 16:24:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[14-Aug-2019 16:24:43 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/laccoil/public_html/lac2/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/config/logging.php on line 18
+[27-Aug-2019 08:56:08 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pampunic/public_html/lac4/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pampunic/public_html/lac4/config/app.php on line 16

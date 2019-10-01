@@ -1,0 +1,1 @@
+[27-Jul-2019 03:32:17 Europe/London] PHP Fatal error:  Class 'Psy\Test\CodeCleaner\CodeCleanerTestCase' not found in /home/laccoil/public_html/lac2/vendor/psy/psysh/test/CodeCleaner/ValidFunctionNamePassTest.php on line 16

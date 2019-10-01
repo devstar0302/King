@@ -1,0 +1,2 @@
+[14-Aug-2019 16:25:09 Europe/London] PHP Fatal error:  Class 'Symfony\Component\Debug\Exception\FatalErrorException' not found in /home/laccoil/public_html/lac2/vendor/symfony/debug/Exception/FatalThrowableError.php on line 19
+[14-Aug-2019 16:25:10 Europe/London] PHP Fatal error:  Class 'Symfony\Component\Debug\Exception\FatalErrorException' not found in /home/laccoil/public_html/lac2/vendor/symfony/debug/Exception/FatalThrowableError.php on line 19

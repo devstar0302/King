@@ -1,0 +1,6 @@
+[14-Aug-2019 16:24:38 Europe/London] PHP Fatal error:  Class 'Symfony\Component\Console\Output\Output' not found in /home/laccoil/public_html/lac2/vendor/symfony/console/Output/BufferedOutput.php on line 17
+[14-Aug-2019 16:24:38 Europe/London] PHP Fatal error:  Class 'Symfony\Component\Console\Output\Output' not found in /home/laccoil/public_html/lac2/vendor/symfony/console/Output/BufferedOutput.php on line 17
+[14-Aug-2019 16:24:41 Europe/London] PHP Fatal error:  Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/laccoil/public_html/lac2/vendor/symfony/console/Output/NullOutput.php on line 25
+[14-Aug-2019 16:24:42 Europe/London] PHP Fatal error:  Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/laccoil/public_html/lac2/vendor/symfony/console/Output/NullOutput.php on line 25
+[14-Aug-2019 16:24:50 Europe/London] PHP Fatal error:  Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/laccoil/public_html/lac2/vendor/symfony/console/Output/ConsoleOutput.php on line 30
+[14-Aug-2019 16:24:51 Europe/London] PHP Fatal error:  Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/laccoil/public_html/lac2/vendor/symfony/console/Output/ConsoleOutput.php on line 30

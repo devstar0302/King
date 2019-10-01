@@ -1,0 +1,41 @@
+[18-Feb-2019 07:29:27 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[18-Feb-2019 07:29:27 Europe/London] PHP Notice:  Undefined variable: factory in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16
+[18-Feb-2019 07:29:27 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/laccoil/public_html/lac2/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16
+[26-Mar-2019 19:59:29 Europe/London] PHP Notice:  Undefined variable: factory in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16
+[26-Mar-2019 19:59:29 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/laccoil/public_html/lac2/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16
+[02-May-2019 18:52:42 Europe/London] PHP Notice:  Undefined variable: factory in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16
+[02-May-2019 18:52:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/laccoil/public_html/lac2/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16
+[04-May-2019 16:40:47 Europe/London] PHP Notice:  Undefined variable: factory in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16
+[04-May-2019 16:40:47 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/laccoil/public_html/lac2/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16
+[13-May-2019 14:52:03 Europe/London] PHP Notice:  Undefined variable: factory in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16
+[13-May-2019 14:52:03 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/laccoil/public_html/lac2/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16
+[14-May-2019 22:09:38 Europe/London] PHP Notice:  Undefined variable: factory in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16
+[14-May-2019 22:09:38 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/laccoil/public_html/lac2/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16
+[01-Jun-2019 23:45:18 Europe/London] PHP Notice:  Undefined variable: factory in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16
+[01-Jun-2019 23:45:18 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/laccoil/public_html/lac2/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16
+[08-Jun-2019 04:10:52 Europe/London] PHP Notice:  Undefined variable: factory in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16
+[08-Jun-2019 04:10:52 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/laccoil/public_html/lac2/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/database/factories/UserFactory.php on line 16

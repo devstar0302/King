@@ -1,0 +1,1 @@
+[12-Aug-2019 14:13:12 Europe/London] PHP Warning:  Class 'Symfony\Component\Debug\Tests\Fixtures\NotPSR0bis' not found in /home/laccoil/public_html/lac2/vendor/symfony/debug/Tests/Fixtures/ClassAlias.php on line 3

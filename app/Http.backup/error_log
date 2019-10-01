@@ -1,0 +1,7 @@
+[14-Feb-2019 11:38:33 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[14-Feb-2019 11:38:33 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/laccoil/public_html/lac2/app/Http/Kernel.php on line 7
+[06-May-2019 23:41:19 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/laccoil/public_html/lac2/app/Http/Kernel.php on line 7
+[09-May-2019 07:02:49 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/laccoil/public_html/lac2/app/Http/Kernel.php on line 7
+[10-May-2019 07:15:11 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/laccoil/public_html/lac2/app/Http/Kernel.php on line 7
+[14-May-2019 12:25:13 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/laccoil/public_html/lac2/app/Http/Kernel.php on line 7
+[26-May-2019 12:59:58 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/laccoil/public_html/lac2/app/Http/Kernel.php on line 7

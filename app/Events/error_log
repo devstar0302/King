@@ -1,0 +1,2 @@
+[07-Aug-2019 20:00:42 Europe/London] PHP Fatal error:  Trait 'Illuminate\Foundation\Events\Dispatchable' not found in /home/laccoil/public_html/lac2/app/Events/ParagraphSaved.php on line 12
+[10-Aug-2019 09:05:45 Europe/London] PHP Fatal error:  Trait 'Illuminate\Foundation\Events\Dispatchable' not found in /home/laccoil/public_html/lac2/app/Events/ParagraphSaved.php on line 12

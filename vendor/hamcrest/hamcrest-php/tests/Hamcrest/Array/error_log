@@ -1,0 +1,1 @@
+[10-Aug-2019 14:04:45 Europe/London] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/laccoil/public_html/lac2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingKeyTest.php on line 6

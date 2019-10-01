@@ -1,0 +1,8 @@
+[05-Aug-2019 02:35:06 Europe/London] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/laccoil/public_html/lac2/vendor/symfony/http-kernel/Tests/Fragment/EsiFragmentRendererTest.php on line 21
+[05-Aug-2019 03:07:16 Europe/London] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/laccoil/public_html/lac2/vendor/symfony/http-kernel/Tests/Fragment/HIncludeFragmentRendererTest.php on line 20
+[05-Aug-2019 05:08:40 Europe/London] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/laccoil/public_html/lac2/vendor/symfony/http-kernel/Tests/Fragment/FragmentHandlerTest.php on line 22
+[05-Aug-2019 08:09:32 Europe/London] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/laccoil/public_html/lac2/vendor/symfony/http-kernel/Tests/Fragment/InlineFragmentRendererTest.php on line 24
+[05-Aug-2019 09:26:39 Europe/London] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/laccoil/public_html/lac2/vendor/symfony/http-kernel/Tests/Fragment/RoutableFragmentRendererTest.php on line 18
+[05-Aug-2019 09:57:25 Europe/London] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/laccoil/public_html/lac2/vendor/symfony/http-kernel/Tests/Fragment/SsiFragmentRendererTest.php on line 21
+[11-Aug-2019 11:24:56 Europe/London] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/laccoil/public_html/lac2/vendor/symfony/http-kernel/Tests/Fragment/HIncludeFragmentRendererTest.php on line 20
+[11-Aug-2019 16:14:52 Europe/London] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/laccoil/public_html/lac2/vendor/symfony/http-kernel/Tests/Fragment/EsiFragmentRendererTest.php on line 21

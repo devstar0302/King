@@ -1,0 +1,2 @@
+[14-Aug-2019 16:25:02 Europe/London] PHP Fatal error:  Interface 'Symfony\Component\Console\Formatter\OutputFormatterStyleInterface' not found in /home/laccoil/public_html/lac2/vendor/symfony/console/Formatter/OutputFormatterStyle.php on line 21
+[14-Aug-2019 16:25:03 Europe/London] PHP Fatal error:  Interface 'Symfony\Component\Console\Formatter\OutputFormatterStyleInterface' not found in /home/laccoil/public_html/lac2/vendor/symfony/console/Formatter/OutputFormatterStyle.php on line 21

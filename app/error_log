@@ -1,0 +1,17 @@
+[07-Feb-2019 23:35:40 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[07-Feb-2019 23:35:40 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/laccoil/public_html/lac2/app/User.php on line 11
+[10-Feb-2019 19:56:15 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[10-Feb-2019 19:56:15 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/laccoil/public_html/lac2/app/User.php on line 11
+[01-Mar-2019 14:27:41 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/laccoil/public_html/lac2/app/User.php on line 11
+[02-Mar-2019 16:03:03 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/laccoil/public_html/lac2/app/User.php on line 11
+[19-Apr-2019 14:10:17 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/laccoil/public_html/lac2/app/User.php on line 11
+[02-May-2019 07:46:31 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/laccoil/public_html/lac2/app/User.php on line 11
+[05-May-2019 23:42:47 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/laccoil/public_html/lac2/app/User.php on line 11
+[08-May-2019 22:35:29 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/laccoil/public_html/lac2/app/User.php on line 11
+[26-Jul-2019 16:20:54 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/laccoil/public_html/lac2/app/User.php on line 11
+[26-Jul-2019 16:20:55 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/laccoil/public_html/lac2/app/User.php on line 11
+[27-Jul-2019 01:23:00 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/laccoil/public_html/lac2/app/User.php on line 11
+[01-Aug-2019 16:17:05 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/laccoil/public_html/lac2/app/User.php on line 11
+[01-Aug-2019 16:17:05 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/laccoil/public_html/lac2/app/User.php on line 11
+[03-Aug-2019 16:20:07 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/laccoil/public_html/lac2/app/User.php on line 11
+[03-Aug-2019 16:20:07 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/laccoil/public_html/lac2/app/User.php on line 11

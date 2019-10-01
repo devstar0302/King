@@ -1,0 +1,453 @@
+[name=date-range] {
+  display: inline-block;
+  padding: 3px 10px;
+  width: 230px;
+  text-align: center;
+}
+form {
+  display: inline-block;
+}
+.sortStyle {
+  position: relative;
+  cursor: pointer;
+}
+.sortStyle::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 50%;
+  width: 21px;
+  height: 9px;
+  transform: translate(0, -50%);
+  background-image: url(../../img/bg.gif);
+  background-repeat: no-repeat;
+  filter: brightness(1000%);
+}
+.table thead th {
+  vertical-align: top!important;
+}
+.search-toggle{
+  margin-left: 2px;
+}
+.malfunction-heading, .guidance-heading {
+  font-weight: bold;
+  margin: 25px 0 15px 0;
+}
+.malfunction-scoring__category-heading {
+  width: 100%;
+  font-size: 1.125rem;
+}
+.malfunction-scoring__paragraph {
+  width: 15%;
+}
+.malfunction-scoring__paragraph-number {
+  display: inline-block;
+}
+.malfunction-scoring__type {
+  width: 15%;
+  padding-right: 20px;
+}
+.malfunction-scoring__finding {
+  width: 11%;
+}
+.malfunction-scoring__risk {
+  width: 41%;
+  padding-right: 10px;
+  position: relative;
+}
+.malfunction-scoring__principal {
+  width: 6%;
+  text-align: center;
+}
+
+.malfunction-scoring__photos, .guidance-photos {
+  /*width: 12%;*/
+    position: relative;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.malfunction-scoring__photos.show, .guidance-photos.show {
+    margin-left: 0;
+}
+
+.malfunction-scoring__photos.disabled {
+  opacity: 0.5;
+}
+.malfunction-scoring__photos.disabled .malfunction-scoring__photo-item {
+  display: none;
+}
+.malfunction-scoring__photos.disabled label {
+  cursor: not-allowed;
+}
+.malfunction-scoring__score {
+  width: 41px;
+}
+.malfunction-scoring__table {
+  width: 100%;
+}
+.malfunction-scoring__table select {
+  min-width: 80%;
+}
+.malfunction-scoring__items td {
+  padding-top: 3px;
+  padding-bottom: 3px;
+  vertical-align: top;
+}
+.upload-photo-wrapper {
+  position: relative;
+  display: flex;
+  width: 30px;
+  height: 35px;
+}
+.malfunction-scoring__add-photo, .guidance-add-photo {
+  position: absolute;
+  left: 5px;
+  bottom: -5px;
+  margin: 0;
+}
+.malfunction-scoring__add-photo .fa-upload,
+.guidance-add-photo .fa-upload {
+  font-size: 25px;
+}
+.malfunction-scoring__add-photo input, .guidance-add-photo input {
+  display: none;
+}
+.malfunction-scoring__photo-item, .guidance-photo-item {
+  width: 70px;
+  height: 45px;
+  background-position: center !important;
+  background-size: cover !important;
+  margin-bottom: 5px;
+  position: relative;
+}
+.malfunction-scoring__photo-remove, .guidance-photo-remove {
+  position: absolute;
+  display: block;
+  width: 24px;
+  height: 24px;
+  margin-left: 5px;
+  cursor: pointer;
+  background: url('../../img/trash-can.png');
+  background-size: cover;
+  left: 100%;
+  bottom: 0px;
+}
+.malfunction-scoring__total-score {
+  font-weight: bold;
+}
+.malfunction-scoring__total-info {
+  display: flex;
+  justify-content: space-between;
+}
+.malfunction-scoring__total-info span {
+  width: 41px;
+}
+.malfunction-scoring__calculate {
+  margin-top: 10px;
+  background: #c9c9c9;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 6px;
+  display: inline-block;
+}
+.malfunction-principal__item, .guidance-principal-item {
+  /*display: flex;*/
+  margin-bottom: 20px;
+}
+.malfunction-principal__item .note-editor.note-frame.card,
+.guidance-principal-item .note-editor.note-frame.card {
+  flex-grow: 1;
+}
+.note-editor.note-frame.card {
+  border-radius: 0px;
+}
+.note-editor.note-frame.card p {
+  margin-bottom: 0px;
+}
+.hidden {
+  display: none;
+}
+.note-editable[contenteditable=false] p {
+  visibility: hidden;
+}
+.card-block[contenteditable=true] a {
+  font-weight: bold;
+  font-size: 13px;
+  float: right;
+}
+
+
+
+
+
+
+div[role=log] {
+  display: none;
+}
+.note-btn-group.btn-group.note-color .note-color:first-child .dropdown-menu .note-palette:first-child {
+  display: none;
+}
+.note-btn-group.btn-group.note-color .note-color:first-child .note-recent-color {
+  background-color: transparent !important;
+}
+.note-btn-group.btn-group.note-color .note-color:last-child .dropdown-menu .note-palette:last-child {
+  display: none;
+}
+.card-header.note-toolbar .note-color .dropdown-menu {
+  min-width: 165px;
+}
+.malfunction-sort, .guidance-sort {
+  width: 50px;
+  height: 30px;
+  background: url(../../img/move.png);
+  background-repeat: no-repeat;
+  background-size: 22px;
+  background-position: center 8px;
+  cursor: move;
+  float: left;
+}
+.warn {
+  outline: 2px solid red;
+}
+.malfunction-principal__photo-item, .guidance-principal-photo-item {
+  width: 70px;
+  height: 45px;
+  background-position: center !important;
+  background-size: cover !important;
+  margin-bottom: 5px;
+  position: relative;
+  float: left;
+  margin-right: 33px;
+}
+.malfunction-uploads__item, .guidance-uploads-item {
+  width: 70px;
+  height: 45px;
+  background-position: center !important;
+  background-size: cover !important;
+  margin-bottom: 5px;
+  position: relative;
+  float: left;
+  margin-right: 33px;
+}
+.malfunction-principal__photo-remove, .malfunction-uploads__item-remove,
+.guidance-principal-photo-remove, .guidance-uploads-item-remove {
+  position: absolute;
+  display: block;
+  width: 24px;
+  height: 24px;
+  margin-left: 5px;
+  cursor: pointer;
+  background: url('../../img/trash-can.png');
+  background-size: cover;
+  left: 100%;
+  bottom: 0px;
+}
+.uploadProgressBar{
+   background-color: #02c185;
+   height: 30px;
+   width: 0%;
+   display: inline-block;
+ }
+.malfunction-uploads__text{
+  color: blue;
+  text-decoration: underline;
+  word-break: break-all;
+}
+
+#malfunctions-table tr.changed td {
+  font-weight: bold;
+}
+
+#malfunctions-table .status {
+  min-width: 120px;
+  padding: .75rem 5px;
+}
+
+#malfunctions-table .status > i {
+  margin-left: 3px;
+  font-size: 20px;
+  color: #000;
+}
+
+.employee .inserted, .employee .deleted {
+  background: red;
+}
+
+.deleted {
+  display: none;
+}
+
+.employee .deleted {
+  display: inline-block;
+  text-decoration: line-through;
+}
+
+.subview-container {
+  position: fixed;
+  right: -100vw;
+  top: 0;
+  bottom: 0;
+  width: 100vw;
+  background: rgba(33, 33, 33, .6);
+  z-index: 9999;
+  transition: right .5s ease-in-out;
+}
+
+.subview-container.show {
+  right: 0;
+}
+
+.subview-container .signs_forms {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.subview-container .signs_forms .add-to-form {
+  visibility: visible;
+}
+
+.  .signs_forms .fileContent .item .item-check {
+  display: inline-block;
+}
+
+.card-header .dropdown-wrapper {
+  position: absolute;
+  left: 1.75rem;
+  top: 50%;
+  transform: translate(0, -50%);
+  width: 400px;
+  z-index: 6666;
+}
+
+.note-toolbar {
+  z-index: auto !important;
+}
+
+.note-btn {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle) {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.btn-group > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle) {
+  border-radius: 0;
+}
+
+.btn-group > .btn:last-child:not(:first-child), .btn-group > .dropdown-toggle:not(:first-child) {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.note-popover .popover-content>.btn-group, .card-header.note-toolbar>.btn-group {
+  margin: 3px;
+}
+
+.btn-caret {
+  width: 20px;
+  padding: 0 0 0 5px;
+}
+
+.card-header.note-toolbar .note-color .dropdown-toggle[data-original-title='More Color'] {
+  padding: 0px;
+  text-align: center;
+}
+
+.card-header.note-toolbar .note-color .dropdown-toggle[data-original-title='More Color']:after {
+  margin: 0;
+}
+
+ul.check {
+  list-style-image: url(../../img/item_check.png);
+}
+
+ul.delete {
+  list-style-image: url(../../img/item_delete.png);
+}
+
+ol.multi_level {
+  counter-reset: section;
+  list-style-type: none;
+}
+
+ol.multi_level li::before {
+  counter-increment: section;
+  content: counters(section, ".") " ";
+}
+
+.note-editor ol {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+.note-popover .popover-content, .card-header.note-toolbar {
+  padding: 0;
+}
+
+.malfunction-txt{
+  display: flex;
+}
+
+#form_grid.preloader-site {
+  overflow: hidden;
+}
+
+.preloader-wrapper {
+  height: 35%;
+  width: 66.6%;
+  background: #FFF;
+  position: fixed;
+  top: 279px;
+  left: 221px;
+  z-index: 9999999;
+}
+
+.preloader-wrapper .preloader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 120px;
+}
+
+.form-control::-webkit-input-placeholder {
+  font-style: normal;
+}
+
+.form-control::-webkit-input-placeholder {
+  text-align:right;
+}
+
+a.disabled{
+  pointer-events: none;
+  cursor: default;
+}
+
+.align_left{
+  float:  left !important;
+}
+
+.icon-arrow{
+  width: 9%;
+  height: 30%;
+  position: absolute;
+  left: 6px;
+  top: 12px;
+}
+.arrow_down{
+  position: absolute;
+  left: 0;
+  top: 11px;
+}
+
+.arrow_up{
+  position: absolute;
+  left: 0;
+  top: 7px;
+}

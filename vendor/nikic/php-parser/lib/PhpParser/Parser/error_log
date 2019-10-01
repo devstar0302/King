@@ -1,0 +1,2 @@
+[24-Jul-2019 23:45:16 Europe/London] PHP Fatal error:  Class 'PhpParser\ParserAbstract' not found in /home/laccoil/public_html/lac2/vendor/nikic/php-parser/lib/PhpParser/Parser/Php7.php on line 18
+[25-Jul-2019 18:44:56 Europe/London] PHP Fatal error:  Class 'PhpParser\ParserAbstract' not found in /home/laccoil/public_html/lac2/vendor/nikic/php-parser/lib/PhpParser/Parser/Php7.php on line 18

@@ -1,0 +1,2 @@
+[10-Aug-2019 07:04:21 Europe/London] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/laccoil/public_html/lac2/vendor/symfony/http-kernel/Tests/Profiler/ProfilerTest.php on line 22
+[10-Aug-2019 18:51:33 Europe/London] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/laccoil/public_html/lac2/vendor/symfony/http-kernel/Tests/Profiler/FileProfilerStorageTest.php on line 18

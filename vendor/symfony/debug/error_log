@@ -1,0 +1,2 @@
+[14-Aug-2019 16:25:05 Europe/London] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/laccoil/public_html/lac2/vendor/symfony/debug/BufferingLogger.php on line 21
+[14-Aug-2019 16:25:05 Europe/London] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/laccoil/public_html/lac2/vendor/symfony/debug/BufferingLogger.php on line 21

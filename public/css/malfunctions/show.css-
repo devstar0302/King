@@ -1,0 +1,50 @@
+.category {
+    cursor: pointer;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+.malfunctions-item, .guidances-item {
+    margin-top: 10px;
+}
+.malfunctions-principal,
+.guidances-principal {
+    list-style: none;
+    padding-inline-start: 0;
+}
+.malfunction-principal__photo-item,
+.guidance-principal-photo-item {
+    width: 70px;
+    height: 45px;
+    background-position: center !important;
+    background-size: cover !important;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    float: left;
+}
+.clear-both{
+    clear: both;
+}
+.malfunction-uploads__item,
+.guidance-uploads-item {
+    width: 70px;
+    height: auto;
+    background-position: center !important;
+    background-size: cover !important;
+    margin-bottom: 5px;
+    position: relative;
+    float: left;
+    margin-right: 33px;
+}
+.malfunction-uploads__text,
+.guidance-uploads-text {
+    color: blue;
+    text-decoration: underline;
+    word-break: break-all;
+}
+
+.canvasjs-chart-credit {
+    display: none;
+}

@@ -1,0 +1,12 @@
+[31-Jul-2019 08:10:52 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/laccoil/public_html/lac2/resources/views/tutorial-videos/index.blade.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/resources/views/tutorial-videos/index.blade.php on line 140
+[06-Aug-2019 18:04:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/laccoil/public_html/lac2/resources/views/tutorial-videos/index.blade.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/resources/views/tutorial-videos/index.blade.php on line 140
+[12-Aug-2019 22:19:51 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/laccoil/public_html/lac2/resources/views/tutorial-videos/index.blade.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/laccoil/public_html/lac2/resources/views/tutorial-videos/index.blade.php on line 140

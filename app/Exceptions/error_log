@@ -1,0 +1,11 @@
+[12-Feb-2019 23:56:13 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[12-Feb-2019 23:56:13 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/laccoil/public_html/lac2/app/Exceptions/Handler.php on line 9
+[16-Feb-2019 20:09:28 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[16-Feb-2019 20:09:28 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/laccoil/public_html/lac2/app/Exceptions/Handler.php on line 9
+[26-Feb-2019 14:05:16 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[26-Feb-2019 14:05:16 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/laccoil/public_html/lac2/app/Exceptions/Handler.php on line 9
+[27-Mar-2019 13:32:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'i360.so' (tried: /opt/alt/php72/usr/lib64/php/modules/i360.so (/opt/alt/php72/usr/lib64/php/modules/i360.so: cannot open shared object file: No such file or directory), /opt/alt/php72/usr/lib64/php/modules/i360.so.so (/opt/alt/php72/usr/lib64/php/modules/i360.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[27-Mar-2019 13:32:11 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/laccoil/public_html/lac2/app/Exceptions/Handler.php on line 9
+[02-May-2019 00:56:13 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/laccoil/public_html/lac2/app/Exceptions/Handler.php on line 9
+[07-May-2019 10:09:26 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/laccoil/public_html/lac2/app/Exceptions/Handler.php on line 9
+[17-May-2019 21:35:37 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/laccoil/public_html/lac2/app/Exceptions/Handler.php on line 9

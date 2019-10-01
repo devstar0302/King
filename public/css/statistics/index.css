@@ -1,0 +1,234 @@
+.statistics-chart {
+    background: #fff;
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+.card form {
+    padding: 10px 20px;
+}
+
+.ms-parent {
+    min-width: 150px;
+    margin-right: 10px;
+}
+
+.ms-parent .ms-drop li > label {
+    margin-bottom: 0;
+}
+
+.ms-parent .ms-drop li > label > span {
+    display: inline-block;
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+.ms-choice {
+    height: 30px;
+}
+
+.ms-choice > div {
+    top: 2px;
+    right: 2px;
+    border-color: #1b1e21;
+}
+
+[name=date-range] {
+    display: inline-block;
+    padding: 3px 10px;
+    width: 200px;
+    text-align: left;
+    font-size: 13px;
+}
+
+.btn-apply {
+    color: white;
+    margin-left: 10px;
+    line-height: 30px;
+    padding: 0px 25px;
+    border: 1px solid #aaa;
+    background-color: #0074d9;
+    border-radius: 5px;
+}
+
+.btn-apply:hover {
+    color: white;
+    text-decoration: none;
+}
+
+#date-range {
+    margin-left: 20px;
+    border: 1px solid #444;
+
+}
+.date-range > span.placeholder{
+    border-color: #444;
+}
+
+#statistic_types { 
+    border-color: #444 !important;
+}
+
+.comboTreeWrapper {
+    position: relative;
+    text-align: left !important;
+    margin-left: 20px;
+    min-width: 150px;
+    float: right;
+}
+
+.comboTreeInputWrapper {
+    position: relative;
+}
+
+.comboTreeInputBox {
+    padding: 3px;
+    border-radius: 3px;
+    border: 1px solid #999;
+    width: 100%;
+    box-sizing: border-box;
+    padding-right: 24px;
+}
+
+.comboTreeArrowBtn {
+    position: absolute;
+    right: 1px;
+    bottom: 1px;
+    top: 1px;
+    box-sizing: border-box;
+    border: 0;
+    background: 0;    
+}
+
+.comboTreeArrowBtn:focus {
+    outline: 0;
+}
+
+.comboTreeArrowBtnImg {
+    font-size: 10px;
+}
+
+.comboTreeDropDownContainer {
+    display: none;
+    background: #fff;
+    border: 1px solid #aaa;
+    max-height: 250px;
+    overflow-y: auto;
+    position: absolute;
+    top: 33px;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 9999;
+}
+
+.comboTreeDropDownContainer ul {
+    padding: 0px;
+    margin: 0;
+}
+
+.comboTreeDropDownContainer li {
+    list-style-type: none;
+    padding-left: 15px;
+    cursor: pointer;
+}
+
+.comboTreeDropDownContainer > ul > li {
+    padding-left: 5px;
+}
+
+.comboTreeDropDownContainer li:hover {
+    background-color: transparent;
+}
+
+.comboTreeDropDownContainer li span.comboTreeItemTitle.comboTreeItemHover {
+    background-color: #418EFF;
+    color: #fff;
+}
+
+span.comboTreeItemTitle {
+    display: block;
+    padding: 2px 4px;
+}
+
+.comboTreeParentPlus {
+    position: relative;
+    display: none;
+    left: -12px;
+    top: 4px;
+    width: 4px;
+    float: left;
+}
+
+.canvasjs-chart-credit {
+    display: none;
+}
+
+.site-names {
+    margin: 50px auto 0;
+    max-width: 80%;
+    font-size: 25px;
+    line-height: 35px;
+    word-break: break-word;
+    color: #444;
+    font-weight: bold;
+}
+
+.site-linecolors {
+    background: #fff;
+    padding: 0 50px 25px;
+    display: flex;
+}
+
+.site-line-color {
+    display: inline-block;
+    width: 30px;
+    border: 0;
+    margin-left: 30px;
+}
+
+.site-line-desc {
+    display: inline-block;
+    margin-left: 30px;
+    color: #444;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.ComboTreeItemParent {
+    position: relative;
+}
+
+.ComboTreeItemParent::after {
+    content:"";
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 27px;
+    height: 27px;
+    background-image: url(../../img/down.png);
+    background-size: 10px 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.ComboTreeItemParent.open::after {
+    background-image: url(../../img/up.png);
+}
+
+.ComboTreeItemParent ul {
+    display: none;
+}
+
+.ComboTreeItemParent.open > ul {
+    display: block;
+}
+
+.ms-drop ul > li.ms-select-all {
+    display: none;
+}

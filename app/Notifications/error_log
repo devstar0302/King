@@ -1,0 +1,7 @@
+[11-Feb-2019 08:41:21 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[11-Feb-2019 08:41:21 Europe/London] PHP Fatal error:  Class 'Illuminate\Auth\Notifications\ResetPassword' not found in /home/laccoil/public_html/lac2/app/Notifications/ResetPasswordNotification.php on line 14
+[02-May-2019 19:44:17 Europe/London] PHP Fatal error:  Class 'Illuminate\Auth\Notifications\ResetPassword' not found in /home/laccoil/public_html/lac2/app/Notifications/ResetPasswordNotification.php on line 14
+[04-May-2019 09:34:42 Europe/London] PHP Fatal error:  Class 'Illuminate\Auth\Notifications\ResetPassword' not found in /home/laccoil/public_html/lac2/app/Notifications/ResetPasswordNotification.php on line 14
+[15-May-2019 12:03:20 Europe/London] PHP Fatal error:  Class 'Illuminate\Auth\Notifications\ResetPassword' not found in /home/laccoil/public_html/lac2/app/Notifications/ResetPasswordNotification.php on line 14
+[15-May-2019 14:48:07 Europe/London] PHP Fatal error:  Class 'Illuminate\Auth\Notifications\ResetPassword' not found in /home/laccoil/public_html/lac2/app/Notifications/ResetPasswordNotification.php on line 14
+[23-May-2019 01:33:32 Europe/London] PHP Fatal error:  Class 'Illuminate\Auth\Notifications\ResetPassword' not found in /home/laccoil/public_html/lac2/app/Notifications/ResetPasswordNotification.php on line 14

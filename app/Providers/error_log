@@ -1,0 +1,40 @@
+[10-Feb-2019 16:23:58 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[10-Feb-2019 16:23:58 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/AuthServiceProvider.php on line 8
+[10-Feb-2019 19:57:50 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[10-Feb-2019 19:57:50 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/AppServiceProvider.php on line 9
+[11-Feb-2019 07:53:03 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[11-Feb-2019 07:53:03 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/EventServiceProvider.php on line 10
+[13-Feb-2019 01:27:49 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[13-Feb-2019 01:27:49 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/RouteServiceProvider.php on line 8
+[13-Feb-2019 22:49:53 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[13-Feb-2019 22:49:53 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/HelperServiceProvider.php on line 7
+[13-Feb-2019 23:57:53 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[13-Feb-2019 23:57:53 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/BroadcastServiceProvider.php on line 8
+[14-Feb-2019 12:03:56 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[14-Feb-2019 12:03:56 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/BroadcastServiceProvider.php on line 8
+[28-Apr-2019 18:57:57 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/EventServiceProvider.php on line 10
+[30-Apr-2019 07:04:05 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/AppServiceProvider.php on line 9
+[30-Apr-2019 21:08:35 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/RouteServiceProvider.php on line 8
+[02-May-2019 19:22:22 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/HelperServiceProvider.php on line 7
+[04-May-2019 15:20:12 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/EventServiceProvider.php on line 10
+[06-May-2019 09:44:24 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/AppServiceProvider.php on line 9
+[06-May-2019 16:41:48 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/RouteServiceProvider.php on line 8
+[07-May-2019 08:04:09 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/HelperServiceProvider.php on line 7
+[08-May-2019 03:03:45 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/AuthServiceProvider.php on line 8
+[08-May-2019 07:14:46 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/BroadcastServiceProvider.php on line 8
+[13-May-2019 16:41:04 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/AuthServiceProvider.php on line 8
+[13-May-2019 18:53:05 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/BroadcastServiceProvider.php on line 8
+[13-May-2019 20:32:06 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/RouteServiceProvider.php on line 8
+[14-May-2019 00:41:13 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/RouteServiceProvider.php on line 8
+[14-May-2019 05:44:23 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/HelperServiceProvider.php on line 7
+[14-May-2019 08:15:58 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/AppServiceProvider.php on line 9
+[14-May-2019 14:34:54 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/RouteServiceProvider.php on line 8
+[14-May-2019 15:50:42 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/AuthServiceProvider.php on line 8
+[14-May-2019 17:06:29 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/EventServiceProvider.php on line 10
+[14-May-2019 23:25:26 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/BroadcastServiceProvider.php on line 8
+[15-May-2019 18:10:38 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/EventServiceProvider.php on line 10
+[16-May-2019 09:57:31 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/AppServiceProvider.php on line 9
+[17-May-2019 21:13:36 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/HelperServiceProvider.php on line 7
+[22-May-2019 05:14:06 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/BroadcastServiceProvider.php on line 8
+[22-May-2019 15:30:50 Europe/London] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/AuthServiceProvider.php on line 8
+[05-Jun-2019 17:28:23 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/laccoil/public_html/lac2/app/Providers/HelperServiceProvider.php on line 7

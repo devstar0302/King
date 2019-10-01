@@ -1,0 +1,23 @@
+[14-Feb-2019 07:04:07 UTC] PHP Warning:  Module 'i360' already loaded in Unknown on line 0
+[14-Feb-2019 07:04:07 Europe/London] PHP Notice:  Undefined variable: locale in /home/laccoil/public_html/lac2/resources/views/emails/sendpdf.php on line 1
+[14-Feb-2019 07:04:07 Europe/London] PHP Notice:  Undefined variable: body in /home/laccoil/public_html/lac2/resources/views/emails/sendpdf.php on line 2
+[01-Mar-2019 11:59:55 Europe/London] PHP Notice:  Undefined variable: name in /home/laccoil/public_html/lac2/resources/views/emails/name.blade.php on line 1
+[30-Mar-2019 06:33:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'i360.so' (tried: /opt/alt/php72/usr/lib64/php/modules/i360.so (/opt/alt/php72/usr/lib64/php/modules/i360.so: cannot open shared object file: No such file or directory), /opt/alt/php72/usr/lib64/php/modules/i360.so.so (/opt/alt/php72/usr/lib64/php/modules/i360.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[30-Mar-2019 06:33:34 Europe/London] PHP Notice:  Undefined variable: locale in /home/laccoil/public_html/lac2/resources/views/emails/sendpdf.php on line 1
+[30-Mar-2019 06:33:34 Europe/London] PHP Notice:  Undefined variable: body in /home/laccoil/public_html/lac2/resources/views/emails/sendpdf.php on line 2
+[07-Apr-2019 03:13:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'i360.so' (tried: /opt/alt/php72/usr/lib64/php/modules/i360.so (/opt/alt/php72/usr/lib64/php/modules/i360.so: cannot open shared object file: No such file or directory), /opt/alt/php72/usr/lib64/php/modules/i360.so.so (/opt/alt/php72/usr/lib64/php/modules/i360.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[07-Apr-2019 04:13:46 Europe/London] PHP Notice:  Undefined variable: data in /home/laccoil/public_html/lac2/resources/views/emails/report.blade.php on line 1
+[12-Apr-2019 10:09:01 Europe/London] PHP Notice:  Undefined variable: name in /home/laccoil/public_html/lac2/resources/views/emails/name.blade.php on line 1
+[04-May-2019 12:51:27 Europe/London] PHP Notice:  Undefined variable: locale in /home/laccoil/public_html/lac2/resources/views/emails/sendpdf.php on line 1
+[04-May-2019 12:51:27 Europe/London] PHP Notice:  Undefined variable: body in /home/laccoil/public_html/lac2/resources/views/emails/sendpdf.php on line 2
+[04-May-2019 20:16:15 Europe/London] PHP Notice:  Undefined variable: data in /home/laccoil/public_html/lac2/resources/views/emails/report.blade.php on line 1
+[05-May-2019 03:00:50 Europe/London] PHP Notice:  Undefined variable: name in /home/laccoil/public_html/lac2/resources/views/emails/name.blade.php on line 1
+[14-May-2019 19:01:43 Europe/London] PHP Notice:  Undefined variable: locale in /home/laccoil/public_html/lac2/resources/views/emails/sendpdf.php on line 1
+[14-May-2019 19:01:43 Europe/London] PHP Notice:  Undefined variable: body in /home/laccoil/public_html/lac2/resources/views/emails/sendpdf.php on line 2
+[15-May-2019 02:12:00 Europe/London] PHP Notice:  Undefined variable: data in /home/laccoil/public_html/lac2/resources/views/emails/report.blade.php on line 1
+[15-May-2019 14:50:53 Europe/London] PHP Notice:  Undefined variable: name in /home/laccoil/public_html/lac2/resources/views/emails/name.blade.php on line 1
+[30-Jul-2019 08:29:36 Europe/London] PHP Notice:  Undefined variable: locale in /home/laccoil/public_html/lac2/resources/views/emails/sendpdf.php on line 1
+[30-Jul-2019 08:29:36 Europe/London] PHP Notice:  Undefined variable: body in /home/laccoil/public_html/lac2/resources/views/emails/sendpdf.php on line 2
+[01-Aug-2019 04:54:42 Europe/London] PHP Notice:  Undefined variable: locale in /home/laccoil/public_html/lac2/resources/views/emails/sendpdf.php on line 1
+[01-Aug-2019 04:54:42 Europe/London] PHP Notice:  Undefined variable: body in /home/laccoil/public_html/lac2/resources/views/emails/sendpdf.php on line 2
+[09-Aug-2019 11:28:41 Europe/London] PHP Notice:  Undefined variable: name in /home/laccoil/public_html/lac2/resources/views/emails/name.blade.php on line 1

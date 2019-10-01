@@ -1,0 +1,22 @@
+.fileContent .item .image:before {
+    left: auto;
+    right: 0;
+}
+
+.fileContent .item .content {
+    padding-left: 0;
+    padding-right: 8px;
+}
+
+.fileContent .item .optionBlock {
+    left: 5px;
+    right: auto;
+}
+
+.fileContent .item .optionBlock .print,
+.fileContent .item .optionBlock .download,
+.fileContent .item .optionBlock .delete,
+.fileContent .item .optionBlock .share {
+    margin-left: 10px;
+    margin-right: auto;
+}

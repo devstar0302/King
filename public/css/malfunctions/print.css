@@ -1,0 +1,16 @@
+body {
+    padding: 20px;
+}
+
+#chartContainer {
+    margin-bottom: 200px;
+}
+
+.canvasjs-chart-canvas {
+    width: 100%;
+}
+
+@page {
+    size: 25cm auto;
+    margin: 0;
+}

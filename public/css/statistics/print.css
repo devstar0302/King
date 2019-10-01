@@ -1,0 +1,29 @@
+
+#app nav {
+    display: none;
+}
+
+#app .breadcrumb {
+    display: none;
+}
+
+#app.statistics {
+    width: 100%;
+}
+
+.container {
+    max-width: 100% !important;
+}
+
+.card.statistics .btn-group {
+    display: none;
+}
+
+.btn-apply, .btn-apply:hover, .btn-apply:focus {
+    text-decoration: none;
+}
+
+@page {
+    size: 25cm auto;
+    margin: 0;
+}

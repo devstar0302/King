@@ -1,0 +1,1 @@
+[25-Jul-2019 00:29:01 Europe/London] PHP Fatal error:  Class 'Swift_Mime_Headers_AbstractHeader' not found in /home/laccoil/public_html/lac2/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/IdentificationHeader.php on line 19

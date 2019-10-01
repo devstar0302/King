@@ -1,0 +1,112 @@
+body {
+    min-width: 1200px;
+}
+
+.bootstrap-datetimepicker-widget {
+    display: none !important;
+}
+
+input#time.edit-field{
+    background: rgba(200,200,200,.4);
+}
+
+.edit-field {
+    border: none;
+    outline: none;
+    margin-left: 5px;
+}
+
+.edit-field.contractor_representative, .edit-field.contractor_representative {
+    background: rgba(200,200,200,.4);
+    padding: 1px 5px;
+    width: 90px;
+}
+
+.upload {
+    max-width: 30%;
+    position: absolute;
+}
+
+input[type=time]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    display: none;
+}
+
+input[type=time]::-webkit-time-picker-indicator {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    display: none;
+}
+
+input[type=time]::-webkit-datetime-edit-ampm-field {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    display: none;
+}
+
+#file {
+    width: 0.1px;
+    visibility: hidden;
+}
+
+.fa-upload {
+    cursor: pointer;
+    /* margin-left: 20px; */
+    font-size: 40px;
+}
+
+.malfunction-scoring__risk .note-editor {
+    margin-bottom: 10px;
+}
+
+.malfunction-finding-select {
+    width: 110px !important;
+    margin-right: 10px;
+}
+
+
+.malfunction-finding-select .ms-drop {
+    min-width: 750px;
+}
+
+
+.malfunction-scoring__risk textarea.disabled + div.note-editor {
+    display: none;
+}
+
+.malfunction-scoring__principal-checkbox[disabled] {
+    display: none;
+}
+
+.malfunction-scoring__principal.hasnt_active .malfunction-scoring__principal-checkbox:first-of-type {
+    display: none;
+}
+
+
+.malfunction-scoring__principal-checkbox {
+    margin-bottom: 126px;
+    display: block;
+}
+
+.ms-select-all {
+    display: none !important;
+}
+
+.malfunction-scoring__risk.hasnt_active .note-editor:first-of-type {
+    display: none !important;
+}
+
+.note-toolbar-wrapper {
+    min-height: 36px !important;
+}
+
+.canvasjs-chart-credit {
+    display: none;
+}

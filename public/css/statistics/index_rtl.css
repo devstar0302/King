@@ -1,0 +1,53 @@
+.comboTreeWrapper {
+    text-align: right !important;
+    margin-left: auto;
+    margin-right: 20px;
+    float: left;
+}
+
+.comboTreeInputBox {
+    padding: 3px;
+    padding-left: 24px;
+}
+
+.comboTreeArrowBtn {
+    left: 1px;
+    right: auto;
+}
+.ms-parent .ms-drop li > label > span {
+    margin-left: auto;
+    margin-right: 5px;
+}
+
+[name=date-range] {
+    text-align: right;
+}
+
+.btn-apply {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.date-range {
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+.ms-parent {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+.ComboTreeItemParent::after {
+    left: 0;
+    right: auto;
+}
+
+.comboTreeDropDownContainer li {
+    padding-left: 0;
+    padding-right: 15px;   
+}
+
+.comboTreeDropDownContainer > ul > li {
+    padding-left: 0;
+}

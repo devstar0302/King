@@ -1,0 +1,2 @@
+[14-Aug-2019 16:24:52 Europe/London] PHP Fatal error:  Class 'Symfony\Component\EventDispatcher\Event' not found in /home/laccoil/public_html/lac2/vendor/symfony/event-dispatcher/GenericEvent.php on line 21
+[14-Aug-2019 16:24:53 Europe/London] PHP Fatal error:  Class 'Symfony\Component\EventDispatcher\Event' not found in /home/laccoil/public_html/lac2/vendor/symfony/event-dispatcher/GenericEvent.php on line 21
